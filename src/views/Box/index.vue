@@ -1,3 +1,10 @@
+<!--
+ * @discription  : Copyright © 2021-2025 Blue Summer Studio. All rights reserved.
+ * @Author       : Niu zhixin
+ * @Date         : 2026-02-26 20:32:49
+ * @LastEditTime : 2026-02-26 20:44:02
+ * @LastEditors  : Niu zhixin
+-->
 <template>
   <div class="box cards" @mouseenter="closeShow = true" @mouseleave="closeShow = false">
     <transition name="el-fade-in-linear">
@@ -21,7 +28,6 @@
       />
     </transition>
     <div class="content">
-      <!-- 可在此处自定义任意内容 -->
       <TimeCapsule />
       <MoreContent />
     </div>
