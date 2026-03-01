@@ -1,1 +1,12 @@
-[]
+[
+    {
+        "icon": "Blog",
+        "name": "博客",
+        "link": "https://blog.niuzhix.dpdns.org/"
+    },
+    {
+        "icon": "Compass",
+        "name": "起始页",
+        "link": "https://www.niuzhix.dpdns.org/"
+    }
+]
